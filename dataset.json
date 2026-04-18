@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Washington, District of Columbia, US",
-  "export_job_id": "5aabca34-7eca-4bf5-ad37-ba012a3e97fa",
+  "export_job_id": "356f2ee2-aed3-42df-bb8f-4f311a05f33a",
   "github_org": "Beamstation-Datasets",
   "id_short": 304305,
   "location_name": "Washington",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-washington-district-of-columbia-us-sample-304305",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/304305/beamstation_304305_restaurants-us-dc_SAMPLE_DIST.csv",
-  "sample_pct": 8.33,
+  "sample_pct": 9.09,
   "sample_records": 3,
-  "sample_sha256": "7b2bb41012f76c60fc1a2a83b388112500e80d38b7aa95487812cb7b92833a5d",
-  "sample_size_bytes": 27670,
-  "total_records": 36,
-  "updated_at": "2026-04-07T15:56:13.247987+00:00"
+  "sample_sha256": "32d111dbe475335a6d83c0e57bb5e9d3922a88c6099ac57c5963cd0457bada40",
+  "sample_size_bytes": 27326,
+  "total_records": 33,
+  "updated_at": "2026-04-14T22:18:46.142656+00:00"
 }

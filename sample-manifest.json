@@ -1,12 +1,12 @@
 {
-  "export_job_id": "445ec367-894f-42a1-ae69-b051c33a0275",
+  "export_job_id": "03c1825b-66f3-40bc-86e8-3d8850945def",
   "id_short": 304305,
-  "published_at": "2026-04-22T07:19:57Z",
+  "published_at": "2026-04-29T07:31:59Z",
   "repo_name": "the-hhi-monopoly-index-for-washington-district-of-columbia-us-sample-304305",
   "sample_asset_name": "beamstation_304305_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/304305/beamstation_304305_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_records": 2,
-  "sample_sha256": "6e891b56722f651de0caee1ea620c391dc4c814faa121c8d2d81fbcf242e2e3b",
-  "sample_size_bytes": 24295,
-  "total_records": 29
+  "sample_sha256": "9e50ea759cc0399af7994d6eecd0fdc21f2778ce44aa99435a98975538a47324",
+  "sample_size_bytes": 24124,
+  "total_records": 26
 }
